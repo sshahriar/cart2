@@ -1,0 +1,16 @@
+1. Design HTML and Css
+2. add listener to "add to cart" button
+3. get the img, title and price of clicked product
+4. create row to append in cart section
+5. remove product on click remove button
+6. check title if already in cart "show message"
+7. update the price after adding
+8. update price after removing item
+ 
+
+whats in this course:
+1. only once the product can be added in cart
+2. update total price on adding product
+2. update total price on removing product
+
+
